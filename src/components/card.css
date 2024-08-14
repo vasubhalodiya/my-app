@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card-cnt
+{
+    max-width: 80%;
+    margin: auto;
+    padding: 40px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card
+{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.card img
+{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-txt
+{
+    padding: 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
